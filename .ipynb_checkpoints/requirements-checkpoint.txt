@@ -1,4 +1,6 @@
 fastai>=2.7.13
+fastdownload
+duckduckgo_search
 torch>=1.13.1
 gradio>=4.27.0
 Pillow
